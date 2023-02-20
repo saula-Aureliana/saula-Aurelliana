@@ -1,4 +1,4 @@
-## Oiii eu sou a Saula Aureliana, Desenvolvedora e professora de programação e tecnologia!
+## Oiii eu sou a Saula Aureliana, Desenvolvedora front end e instrutora de programação e tecnologia!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saula-Aureliana&show_icons=true&theme=dracula)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saula-Aureliana&repo=github-readme-stats&theme=dracula&show_owner=true)](https://github.com/saula-Aureliana/github-readme-stats)
